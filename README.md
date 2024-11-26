@@ -83,7 +83,7 @@ TensorFlow: Machine Learning model for predictions.
 AWS EC2
 
 ## 👨‍💻 Authors
-Sudhanshu Dave
-Sharvari Hendre
-Shreyas Kempwade
+Sudhanshu Dave |
+Sharvari Hendre |
+Shreyas Kempwade |
 Ashutosh Korde
