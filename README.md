@@ -25,9 +25,10 @@ Rice-Crop-Disease-Predictor/
 │   └── workflows/
 │       └── cicd.yml        # GitHub Actions pipeline
 ├── README.md               # Project documentation
-
+```
 
 ## 🛠️ Setup Instructions
+```
 1. Clone the Repository
 git clone https://github.com/<your-username>/Rice-Crop-Disease-Predictor.git
 cd Rice-Crop-Disease-Predictor
@@ -64,6 +65,7 @@ b.Run the container:
 docker run -d -p 8000:8000 <your-dockerhub-username>/dockerize_api:v1.0
 c.Verify the application:
 Open a browser and navigate to http://<EC2-Public-IP>:8000.
+```
 
 
 ## 🔄 CI/CD Pipeline
